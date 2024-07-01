@@ -11,6 +11,9 @@ redirect_from:
 
 ## Employment
 
+I've spent the last few months teaching to support myself while I finished a [research project](https://arxiv.org/abs/2406.02409) which turned out to be much more ambitious than could be completed within a 2 year fellowship.
+I have honorary/visiting positions with the Universities of Bristol and Mainz which allow me to remain research active.
+
 * Jan 2024--: **Teaching support role**, University of Bristol
 * Nov 2021--Nov 2023: **Alexander von Humboldt postdoctoral research fellow**, JGU Mainz
   * Hosted by [Thomas Speck](https://www.itp4.uni-stuttgart.de/institute/team/Speck/)
