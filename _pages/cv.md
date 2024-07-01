@@ -35,7 +35,7 @@ redirect_from:
   <!-- * 3 weekly contact hours on average throughout academic year. Approximately 120 undergraduates spread across 3 classes. -->
 * 2018: Teaching assistant, *Essential Maths for Physics*
   <!-- * Weekly tutorials for 12 undergraduates for one term. Each week involved 1 hour of contact time and 3 preparation hours including marking. -->
-* 2015, 2016, 2018: Teaching assistant, *Mathematical physics*.
+* 2015, 2016, 2018: Teaching assistant, *Mathematical physics*
   <!-- * 3 weekly contact hours for one term. Approximately 120 students spread across 3 classes. -->
 
 

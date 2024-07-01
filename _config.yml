@@ -24,11 +24,11 @@ author:
   avatar           : "profile.png"
   name             : "Joshua Robinson"
   pronouns         : "he/him" # example: "she/her"  
-  bio              : "I'm a mathematical and computational physicist based in Bristol, UK."
+  bio              : "I'm a theoretical physicist based in Bristol, UK"
   location         : "Bristol, UK"
-  employer         : "University of Bristol; University of Mainz"
+  employer         : # keep blank for now
   uri              : # URL
-  email            : "joshua.robinson@bristol.ac.uk" 
+  email            : "joshua.robinson@uni-mainz.de" 
 
   # Academic websites
   arxiv            : "https://arxiv.org/a/robinson_j_2.html" # URL - Update with the correct link to your profile
