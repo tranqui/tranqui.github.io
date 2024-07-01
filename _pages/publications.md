@@ -22,8 +22,6 @@ author_profile: true
 
 ## Published
 
-{% include base_path %}
-
 <ol reversed class="archive__item-publications">
 {% for post in site.publications reversed %}
   {% include archive-publication.html %}
