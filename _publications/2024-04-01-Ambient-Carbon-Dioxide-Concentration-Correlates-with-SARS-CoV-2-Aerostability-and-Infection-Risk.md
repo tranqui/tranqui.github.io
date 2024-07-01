@@ -4,6 +4,6 @@ collection: publications
 permalink: /publication/2024-04-01-Ambient-Carbon-Dioxide-Concentration-Correlates-with-SARS-CoV-2-Aerostability-and-Infection-Risk
 date: 2024-04-01
 venue: 'Nat. Comm.'
-citation: ' Allen Haddrell,  Henry Oswin,  Mara Otero-Fernandez,  Joshua Robinson,  Tristan Cogan,  Robert Alexander,  Jamie Mann,  Darryl Hill,  Adam Finn,  Andrew Davidson,  Jonathan Reid, &quot;Ambient Carbon Dioxide Concentration Correlates with SARS-CoV-2 Aerostability and Infection Risk.&quot; Nat. Comm., 2024.'
+citation: 'A. Haddrell, H. Oswin, M. Otero-Fernandez,  <b>JFR</b>, T. Cogan, R. Alexander, J. F. S. Mann, D. Hill, A. Finn, A. D. Davidson, and J. P. Reid, &quot;Ambient Carbon Dioxide Concentration Correlates with SARS-CoV-2 Aerostability and Infection Risk&quot;, Nat. Comm. (2024).'
+paperurl: 'https://www.nature.com/articles/s41467-024-47777-5'
 ---
-Use [Google Scholar](https://scholar.google.com/scholar?q=Ambient+Carbon+Dioxide+Concentration+Correlates+with+SARS+CoV+2+Aerostability+and+Infection+Risk){:target="_blank"} for full citation
