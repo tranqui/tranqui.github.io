@@ -12,7 +12,7 @@ I'm a theoretical physicist with honorary/visiting positions at the Universities
 Previously I held an Alexander von Humboldt fellowship at JGU Mainz, where I worked with the [Speck group](https://www.itp4.uni-stuttgart.de/) (now at Stuttgart). I was a PhD student at the University of Bristol, supervised by [Paddy Royall](https://paddyroyall.github.io/padrus/index.html).
 
 My research spans a wide range of fundamental and applied topics in statistical physics and soft condensed matter. Some key areas of interest are:
-* Liquid state theory and supercooled liquids, especially hard spheres.
+* Liquid state theory and supercooled liquids, especially in simplified models like hard spheres.
 * Structure formation, especially many-body correlations and patterns.
 * Aerosol science and disease transmission through my long-term collaborators at the [Bristol Aerosol Research Centre](https://www.bristol.ac.uk/chemistry/research/barc/).
 
