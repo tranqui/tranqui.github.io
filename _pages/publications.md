@@ -14,19 +14,19 @@ author_profile: true
 {% assign publications_count = site.publications | size %}
 {% assign preprints_count = site.preprints | size %}
 {% assign preprints_start = publications_count | plus: preprints_count %}
-<ol start="{{ preprints_start }}" reversed>
+<ol start="{{ preprints_start }}" reversed class="archive__item-publications">
 {% for post in site.preprints reversed %}
-  {% include archive-single-cv.html %}
+  {% include archive-publication.html %}
 {% endfor %}
 </ol>
 
-## Published in journals
+## Published
 
 {% include base_path %}
 
-<ol reversed>
+<ol reversed class="archive__item-publications">
 {% for post in site.publications reversed %}
-  {% include archive-single-cv.html %}
+  {% include archive-publication.html %}
 {% endfor %}
 </ol>
 <!-- {% for post in site.publications reversed %}
