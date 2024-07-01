@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Joshua Robinson"
   pronouns         : "he/him" # example: "she/her"  
-  bio              : "I'm a mathematical/computational physicist based"
+  bio              : "I'm a mathematical and computational physicist based in Bristol, UK."
   location         : "Bristol, UK"
   employer         : "University of Bristol; University of Mainz"
   uri              : # URL
@@ -45,10 +45,10 @@ author:
   dribbble         : # Username
   github           : "tranqui"
   kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  stackoverflow    : "1647410/joshua-robinson" # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : # Replace this with you Bluesky username
+  bluesky          : "joshuarrr.bsky.social" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
