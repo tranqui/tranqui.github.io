@@ -1,11 +1,6 @@
 ---
 title: "reactGPU"
-excerpt: "Parallel simulation of reaction-diffusion systems on a 2d grid.<br/><img src='/images/500x300.png'>"
+excerpt: "Highly parallelised simulation of reaction-diffusion on a 2d grid.<br/><img width=500 src='/images/reactGPU.png'>"
 collection: repositories
+link: https://github.com/tranqui/reactGPU
 ---
-
-[https://github.com/tranqui/reactGPU](https://github.com/tranqui/reactGPU)
-
-## Description
-
-TBD.

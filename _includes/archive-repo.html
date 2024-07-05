@@ -1,0 +1,8 @@
+{% include base_path %}
+
+{% assign post = site.repositories | where: "title", include.repo | first %}
+{% if post %}
+  {% include archive-single.html %}
+{% else %}
+  <p>No repository found with the name "{{ include.repo }}".</p>
+{% endif %}
