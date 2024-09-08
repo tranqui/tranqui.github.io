@@ -13,7 +13,7 @@ redirect_from:
 
 I also maintain honorary/visiting positions with the Universities of Bristol and Mainz.
 
-* Sep 2024--: **Scientific software developer**, Hartree Centre (STFC)
+* Sep 2024--: **Scientific software developer**, [Hartree Centre](https://www.hartree.stfc.ac.uk/) (Science and Technology Facilities Council)
 * Jan 2024--June 2024: **Teaching support role**, University of Bristol
 * Nov 2021--Nov 2023: **Alexander von Humboldt postdoctoral research fellow**, JGU Mainz
   * Hosted by [Thomas Speck](https://www.itp4.uni-stuttgart.de/institute/team/Speck/)
