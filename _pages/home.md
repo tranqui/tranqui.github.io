@@ -7,7 +7,7 @@ redirect_from:
   - /home.html
 ---
 
-I'm a theoretical physicist with honorary/visiting positions at the Universities of Bristol and Mainz. I'm currently in the process of transitioning into a new role (to be announced).
+I'm a theoretical physicist working for the [Hartree Centre](https://www.hartree.stfc.ac.uk/) within the Science and Technology Facilities Council (STFC). I also hold honorary/visiting positions at the Universities of Bristol and Mainz.
 
 Previously I held an Alexander von Humboldt fellowship at JGU Mainz, where I worked with the [Speck group](https://www.itp4.uni-stuttgart.de/) (now at Stuttgart). I was a PhD student at the University of Bristol, supervised by [Paddy Royall](https://paddyroyall.github.io/padrus/index.html).
 

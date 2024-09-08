@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Joshua Robinson"
 title_separator          : "-"
 name                     : &name "Joshua F. Robinson"
-description              : &description "Computational and mathematical physicist"
+description              : &description "Theoretical physicist"
 url                      : https://tranqui.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tranqui.github.io"
@@ -26,9 +26,9 @@ author:
   pronouns         : "he/him" # example: "she/her"  
   bio              : "I'm a theoretical physicist based in Bristol, UK"
   location         : "Bristol, UK"
-  employer         : # keep blank for now
+  employer         : "Science & Technology Facilities Council"
   uri              : # URL
-  email            : "joshua.robinson@uni-mainz.de" 
+  email            : "joshua.robinson@stfc.ac.uk" 
 
   # Academic websites
   arxiv            : "https://arxiv.org/a/robinson_j_2.html" # URL - Update with the correct link to your profile
